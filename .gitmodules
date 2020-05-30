@@ -1,0 +1,4 @@
+[submodule "packages/package"]
+	path = packages/package
+	url = https://github.com/finoer/package-startup.git
+  branch = master

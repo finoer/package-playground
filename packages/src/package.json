@@ -1,0 +1,7 @@
+{
+  "name": "src",
+  "private": false,
+  "dependencies": {
+    "package-startup": "^1.0.0"
+  }
+}

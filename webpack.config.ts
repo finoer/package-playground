@@ -26,7 +26,7 @@ const config: webpack.Configuration = {
     hot: true,
     open: true
   },
-  watch: true,
+  watch: true, 
   optimization: {
     splitChunks: {
       cacheGroups: {
